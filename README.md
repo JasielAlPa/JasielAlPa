@@ -27,7 +27,7 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Diseño electrónico:</h3>
+<h3 align="left">Electronic design:</h3>
 <p align="left">
 <a href="https://www.kicad.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="kicad"/></a>
 <a href="https://easyeda.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/EasyEDA-2C8EBB?style=for-the-badge&logoColor=white" alt="easyeda"/></a>
